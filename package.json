@@ -5,5 +5,7 @@
   "repository": "git@github.com:clarkbw/test-node-package.git",
   "author": "Bryan Clark <clarkbw@github.com>",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "debug": "^3.1.0"
+  }
 }
