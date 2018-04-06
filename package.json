@@ -2,7 +2,7 @@
   "name": "test-node-package",
   "version": "1.0.0",
   "main": "index.js",
-  "description": "no, really",
+  "description": "no, really. this time we've got it.",
   "repository": "git@github.com:clarkbw/test-node-package.git",
   "author": "Bryan Clark @clarkbw",
   "license": "MIT",
