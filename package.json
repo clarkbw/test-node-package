@@ -2,7 +2,7 @@
   "name": "test-node-package",
   "version": "1.0.0",
   "main": "index.js",
-  "description": "like a yokle",
+  "description": "like a yankee",
   "repository": "git@github.com:clarkbw/test-node-package.git",
   "author": "Bryan Clark @clarkbw",
   "license": "GPL",
