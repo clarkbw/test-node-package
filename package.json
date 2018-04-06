@@ -5,7 +5,7 @@
   "description": "like a boss",
   "repository": "git@github.com:clarkbw/test-node-package.git",
   "author": "Bryan Clark @clarkbw",
-  "license": "MIT",
+  "license": "GPL",
   "dependencies": {
     "debug": "^3.1.0"
   }
